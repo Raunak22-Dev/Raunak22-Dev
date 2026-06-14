@@ -31,14 +31,14 @@ I build intelligent web applications, optimize data pipelines, and design local 
 * [cite_start]Implemented auto language detection, plain English line-by-line comments, and complexity analysis[cite: 23].
 
 #### 👁️ [DeepFake Detection System](https://github.com/YOUR-USERNAME/YOUR-REPO)
-* [cite_start]**Stack:** FastAPI, CNN, FFT, FaceForensics++ [cite: 26, 28]
-* [cite_start]Developed a DeepFake detection system using CNN and FFT-based frequency analysis for media classification[cite: 27].
-* [cite_start]Achieved over 89% accuracy in identifying fake and real media content[cite: 30].
+* **Stack:** FastAPI, CNN, FFT, FaceForensics++
+* Developed a DeepFake detection system using CNN and FFT-based frequency analysis for media classification.
+* Achieved over 89% accuracy in identifying fake and real media content.
 
 #### 📊 [E-commerce Sales & Profitability Analysis](https://github.com/YOUR-USERNAME/YOUR-REPO)
-* [cite_start]**Stack:** MySQL, Python, Power BI, Pandas 
-* [cite_start]Performed an end-to-end data analysis pipeline evaluating revenue trends, regional performance, and discount impacts[cite: 18, 19, 20].
-* [cite_start]Engineered interactive data dashboards displaying critical KPIs to support automated business decision-making workflows[cite: 20].
+* **Stack:** MySQL, Python, Power BI, Pandas 
+* Performed an end-to-end data analysis pipeline evaluating revenue trends, regional performance, and discount impacts.
+* Engineered interactive data dashboards displaying critical KPIs to support automated business decision-making workflows.
 
 ---
 
@@ -47,7 +47,7 @@ I build intelligent web applications, optimize data pipelines, and design local 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=visual_studio_dark&count_private=true" alt="GitHub Stats" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=visual_studio_dark" alt="GitHub Streak" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=visual_studio_dark" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raunak22-Dev&layout=compact&theme=visual_studio_dark" alt="Top Languages" height="150" />
 </p>
 
 ---
