@@ -26,9 +26,9 @@ I build intelligent web applications, optimize data pipelines, and design local 
 ### 📂 Featured Projects
 
 #### 🤖 [AI Code Explainer](https://github.com/YOUR-USERNAME/YOUR-REPO)
-* [cite_start]**Stack:** LangChain, FastAPI, React, Llama 3.3 70B [cite: 21]
-* [cite_start]Built an AI-powered code analysis tool using LangChain and Meta's Llama 3.3 70B model via NVIDIA API[cite: 22].
-* [cite_start]Implemented auto language detection, plain English line-by-line comments, and complexity analysis[cite: 23].
+* **Stack:** LangChain, FastAPI, React, Llama 3.3 70B [cite: 21]
+* Built an AI-powered code analysis tool using LangChain and Meta's Llama 3.3 70B model via NVIDIA API.
+* Implemented auto language detection, plain English line-by-line comments, and complexity analysis.
 
 #### 👁️ [DeepFake Detection System](https://github.com/YOUR-USERNAME/YOUR-REPO)
 * **Stack:** FastAPI, CNN, FFT, FaceForensics++
