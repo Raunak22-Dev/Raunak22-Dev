@@ -45,8 +45,8 @@ I build intelligent web applications, optimize data pipelines, and design local 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=visual_studio_dark&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=visual_studio_dark" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Raunak22-Dev&show_icons=true&theme=visual_studio_dark&count_private=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raunak22-Dev&theme=visual_studio_dark" alt="GitHub Streak" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raunak22-Dev&layout=compact&theme=visual_studio_dark" alt="Top Languages" height="150" />
 </p>
 
