@@ -7,7 +7,7 @@ I build intelligent web applications, optimize data pipelines, and design local 
 
 ### 🎯 Current Sprint
 - 🛠️ **Learning:** Advanced system workflows, optimization of local LLMs, and cloud native architectures.
-- 🚀 **Building:** Enhancing my AI Code Explainer to support asynchronous streaming and custom vector database chunking strategies.
+
 
 ---
 
