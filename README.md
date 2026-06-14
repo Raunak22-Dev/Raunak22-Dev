@@ -1,7 +1,13 @@
-# Hi there, I'm Raunak! 👋
+# Hi there, I'm Raunak! 👋 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR-USERNAME.YOUR-USERNAME)
 
 ### 🚀 Full-Stack & Generative AI Developer
 I build intelligent web applications, optimize data pipelines, and design local AI workflows. 
+
+---
+
+### 🎯 Current Sprint
+- 🛠️ **Learning:** Advanced system workflows, optimization of local LLMs, and cloud native architectures.
+- 🚀 **Building:** Enhancing my AI Code Explainer to support asynchronous streaming and custom vector database chunking strategies.
 
 ---
 
@@ -20,14 +26,19 @@ I build intelligent web applications, optimize data pipelines, and design local 
 ### 📂 Featured Projects
 
 #### 🤖 [AI Code Explainer](https://github.com/YOUR-USERNAME/YOUR-REPO)
-* **Stack:** LangChain, FastAPI, React, Llama 3.3 70B
-* Built an AI-powered code analysis tool using LangChain and Meta's Llama 3.3 70B model via NVIDIA API.
-* Implemented auto language detection, plain English line-by-line comments, and complexity analysis.
+* [cite_start]**Stack:** LangChain, FastAPI, React, Llama 3.3 70B [cite: 21]
+* [cite_start]Built an AI-powered code analysis tool using LangChain and Meta's Llama 3.3 70B model via NVIDIA API[cite: 22].
+* [cite_start]Implemented auto language detection, plain English line-by-line comments, and complexity analysis[cite: 23].
 
 #### 👁️ [DeepFake Detection System](https://github.com/YOUR-USERNAME/YOUR-REPO)
-* **Stack:** FastAPI, CNN, FFT, FaceForensics++
-* Developed a DeepFake detection system using CNN and FFT-based frequency analysis for media classification.
-* Achieved over 89% accuracy in identifying fake and real media content.
+* [cite_start]**Stack:** FastAPI, CNN, FFT, FaceForensics++ [cite: 26, 28]
+* [cite_start]Developed a DeepFake detection system using CNN and FFT-based frequency analysis for media classification[cite: 27].
+* [cite_start]Achieved over 89% accuracy in identifying fake and real media content[cite: 30].
+
+#### 📊 [E-commerce Sales & Profitability Analysis](https://github.com/YOUR-USERNAME/YOUR-REPO)
+* [cite_start]**Stack:** MySQL, Python, Power BI, Pandas 
+* [cite_start]Performed an end-to-end data analysis pipeline evaluating revenue trends, regional performance, and discount impacts[cite: 18, 19, 20].
+* [cite_start]Engineered interactive data dashboards displaying critical KPIs to support automated business decision-making workflows[cite: 20].
 
 ---
 
@@ -35,11 +46,12 @@ I build intelligent web applications, optimize data pipelines, and design local 
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=visual_studio_dark&count_private=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=visual_studio_dark" alt="GitHub Streak" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=visual_studio_dark" alt="Top Languages" height="150" />
 </p>
 
 ---
 
 ### 🤝 Connect with Me
-* 💼 **LinkedIn:** [Your LinkedIn Profile URL]
-* 📧 **Email:** [Your Email Address]
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/raunakgangwal/]
+* 📧 **Email:** [raunakgangwal22@gmail.com]
