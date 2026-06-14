@@ -1,4 +1,4 @@
-# Hi there, I'm Raunak! 👋 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR-USERNAME.YOUR-USERNAME)
+# Hi there, I'm Raunak Gangwal! 👋 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR-USERNAME.YOUR-USERNAME)
 
 ### 🚀 Full-Stack & Generative AI Developer
 I build intelligent web applications, optimize data pipelines, and design local AI workflows. 
