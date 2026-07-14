@@ -29,7 +29,7 @@ I build data-driven decision tools, end-to-end ML pipelines, and intelligent AI 
 ### 📂 Featured Projects
 
 #### 📊 [Customer Churn Analysis & Prediction](https://github.com/Raunak22-Dev/YOUR-REPO-NAME)
-* **Stack:** Python, Scikit-learn, Power BI, SciPy
+* **Stack:** Python, Scikit-learn, Power BI
 * Identified key churn drivers across 7,043 telecom customers via chi-square hypothesis testing (p < 0.001) on contract type, payment method, and internet service.
 * Built and tuned Logistic Regression and Random Forest models with cross-validation and GridSearchCV, achieving 79% churn recall and 0.842 ROC-AUC.
 * Segmented customers into risk tiers, surfacing $41,908/month in at-risk revenue via an interactive Power BI dashboard for retention targeting.
